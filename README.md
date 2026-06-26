@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-choix-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Le Choix De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-choix-de-mon-cur/) |
+| **Get License** | [Get License For Le Choix De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-choix-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8c88bdfca98894f1d4c984715ea03d2a8fef28cac5ce557c5a167d056709671` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
