@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-choix-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Le Choix De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-choix-de-mon-cur/) |
+| **Get License** | [Commercial Licensing for Le Choix De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-choix-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'te vois briller sous les néons de la ville, so chic
+> Ton regard me capte, le reste est basique
+> J'ai le cœur qui bat fort sur cette French Touch
+> Viens dans la caisse, baby, I want you so much
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
